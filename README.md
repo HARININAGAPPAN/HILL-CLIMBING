@@ -564,6 +564,8 @@ Score: 0  Solution: ab
 
 Target String Found!
 
+<img width="1042" height="685" alt="image" src="https://github.com/user-attachments/assets/b8d1398f-9538-485e-8650-0795eda28bf6" />
+
 <img width="1087" height="631" alt="image" src="https://github.com/user-attachments/assets/f2f414a8-b5ee-4240-86b7-0a9e03e73a8f" />
 
 ## Result:
